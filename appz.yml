@@ -27,8 +27,8 @@ properties:
     FILESYNC_ENABLE: "No"
     SECRET_KEY_BASE: 
       vault: SECRET_KEY_BASE
-    POSTGRES_HOST: pgconnect-0-2:5000    
-    POSTGRES_PORT: 5432
+    POSTGRES_HOST: pgconnect-0-2    
+    POSTGRES_PORT: 5000
     POSTGRES_DB: openproject
     POSTGRES_USER: openproject
     POSTGRES_PASSWORD: 
